@@ -1,5 +1,7 @@
 # Google Sheets Image OCR with Drag & Drop
 
+![alt text](image.png)
+
 This project allows you to drag and drop an image into a Google Sheets sidebar, automatically upload it to Google Drive, and extract text using the Google Cloud Vision API.
 
 ## Features
@@ -14,5 +16,3 @@ This project allows you to drag and drop an image into a Google Sheets sidebar, 
 3. Paste `Code.gs` and `UploadSidebar.html` into Apps Script editor
 4. Replace `YOUR_API_KEY_HERE` with your key
 5. Reload the Sheet and open the sidebar from the custom menu
-
-![alt text](image.png)
